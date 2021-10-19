@@ -1,0 +1,44 @@
+{
+    "name": "Assessment background",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#fde99c",
+        "#fdba41",
+        "#f48c21",
+        "#a7e384",
+        "#ea327a",
+        "#051a4b",
+        "#253769",
+        "#4d66a9",
+        "#748bcf",
+        "#a9b9dd",
+        "#519619",
+        "#e23831",
+        "#fde58b",
+        "#2d6e04",
+        "#60b228"
+    ]
+}
